@@ -12,6 +12,19 @@ feature2 3
 develop 6 merge with feature2 3
 release1 1 (start of release branch for 1.0)
 release1 2
+develop 7 merge with release1 2
 release1 3
 release1 4
 master 3 (1.0)
+develop 8 merge with release1 4
+feature2 4
+feature2 5
+feature2 6
+develop 9 merge with feature2 6
+feature1 1 (feature for future release)
+feature1 2
+feature1 3
+feature1 4
+develop 9 merge with feature1 4
+release1 5 merge with develop 9
+master 4 merge with release1 5
