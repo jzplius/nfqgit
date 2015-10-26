@@ -4,4 +4,8 @@ develop 2
 develop 3
 develop 4
 hotfix1 1 (severe bug fixed for production 0.2)
-develop 5 (incorporate bugfix in develop)
+develop 5 merge with hotfix1 1 (incorporate bugfix in develop)
+feature2 1 (major feature for next release)
+feature2 2
+feature2 3
+develop 6 merge with feature2 3
