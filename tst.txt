@@ -1,3 +1,17 @@
 master 1 (tag 0.1)
+develop 1
+develop 2
+develop 3
+develop 4
 hotfix1 1 (severe bug fixed for production 0.2)
 master 2 - merge with - hotfix1 1 (0.2)
+develop 5 merge with hotfix1 1 (incorporate bugfix in develop)
+feature2 1 (major feature for next release)
+feature2 2
+feature2 3
+develop 6 merge with feature2 3
+release1 1 (start of release branch for 1.0)
+release1 2
+release1 3
+release1 4
+master 3 (1.0)
