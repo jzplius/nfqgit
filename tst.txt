@@ -3,3 +3,5 @@ develop 1
 develop 2
 develop 3
 develop 4
+hotfix1 1 (severe bug fixed for production 0.2)
+develop 5 (incorporate bugfix in develop)
