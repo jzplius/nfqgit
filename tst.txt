@@ -3,3 +3,4 @@ develop 1
 develop 2
 develop 3
 feature2 1 (major feature for next release)
+feature2 2
