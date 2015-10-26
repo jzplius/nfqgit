@@ -12,3 +12,4 @@ develop 6 merge with feature2 3
 release1 1 (start of release branch for 1.0)
 release1 2
 release1 3
+release1 4
